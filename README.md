@@ -32,6 +32,8 @@ Custom software, dashboards and automation — built, secured and audited — al
 
 We publish plain-language fraud-awareness guides in **English, हिन्दी, বাংলা, मराठी, తెలుగు and தமிழ்** — digital arrest, APK/WhatsApp scams, verifying a company before you pay, and more: **[dunime.com/protect](https://dunime.com/protect)**.
 
+We also publish **[IGRS — Intel Grid Research Station](https://igrs.xyz)**, a free research desk for Indian investigators and cyber cells: [daily India cyber briefs and deep dives](https://igrs.xyz/articles.html), an [IP & ISP lookup](https://igrs.xyz/ip-lookup.html), a [VPN & Tor IP checker](https://igrs.xyz/vpn-ip-checker.html), a [QR code checker](https://igrs.xyz/links.html), [investigation playbooks](https://igrs.xyz/playbooks.html) and a [BNS / BNSS / BSA / IT Act quick reference](https://igrs.xyz/cyberlaw.html). No login, no paywall.
+
 Lost money online in India? Call **1930** or report at **[cybercrime.gov.in](https://cybercrime.gov.in)**.
 
 ### Contact
